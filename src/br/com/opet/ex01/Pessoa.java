@@ -19,7 +19,7 @@ public class Pessoa {
 
 	private boolean validaIdade() {
 		if (idade < 0 || idade > 150) {
-			System.out.println("Idade inválida [" + idade + "]");
+			System.out.println("Idade invalida [" + idade + "]");
 		}
 		return false;
 	}

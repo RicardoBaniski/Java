@@ -1,10 +1,9 @@
 package br.com.opet.ex01;
 
-public class Carro {
+public class Carro extends Veiculo {
 
 	// Atributos
 	String modelo;
-	int ano;
 
 	// Metodos
 	boolean desacelera() {
