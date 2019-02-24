@@ -1,7 +1,6 @@
 package br.com.opet.ex01;
 
 public class Pessoa {
-
 	// Atributos
 	private int idade;
 	private String profissao;
