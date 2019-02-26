@@ -1,4 +1,4 @@
-package br.com.opet.ex01;
+package br.com.opet.ex0220;
 
 public class Pessoa {
 	// Atributos
