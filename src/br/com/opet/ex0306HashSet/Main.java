@@ -16,7 +16,7 @@ public class Main {
 		col.add(p1);
 
 		System.out.println(col.size());
-		
+
 		for (Pessoa pessoa : col) {
 			System.out.println(pessoa.getNome());
 		}
