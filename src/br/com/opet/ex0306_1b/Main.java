@@ -1,4 +1,4 @@
-package br.com.opet.ex0306_2;
+package br.com.opet.ex0306_1b;
 
 import java.util.HashSet;
 import java.util.Random;
@@ -11,8 +11,8 @@ public class Main {
 		HashSet<Integer> col = new HashSet<Integer>();
 
 		random(col);
-		
-		System.out.println("Tamanho:"+col.size());
+
+		System.out.println("Tamanho:" + col.size());
 
 		System.out.print("Informe um valor inteiro de 0 a 199: ");
 		int val = Reader.readInt();

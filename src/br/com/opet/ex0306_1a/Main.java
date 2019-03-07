@@ -1,4 +1,4 @@
-package br.com.opet.ex0306_1;
+package br.com.opet.ex0306_1a;
 
 import java.util.ArrayList;
 import java.util.Random;
