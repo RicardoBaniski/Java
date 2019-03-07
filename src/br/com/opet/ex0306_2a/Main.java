@@ -1,4 +1,4 @@
-package br.com.opet.ex0306_2;
+package br.com.opet.ex0306_2a;
 
 import java.util.HashMap;
 import java.util.Random;
